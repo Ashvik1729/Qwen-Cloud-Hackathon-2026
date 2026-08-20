@@ -4,6 +4,9 @@ EchoDesk is a persistent-memory Chief-of-Staff agent demo for solo founders and 
 
 Track: MemoryAgent.
 
+## Live Demo
+https://resplendent-pika-b3e990.netlify.app/
+
 ## What the demo proves
 
 1. **Efficient storage and retrieval** — user facts are stored as individual memory chunks with deterministic embeddings, importance scores, timestamps, access counts, and decay scores. Retrieval ranks by semantic similarity, recency, importance, and decay, then caps retrieved memory to a 2K estimated-token budget.
